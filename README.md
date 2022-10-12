@@ -56,6 +56,7 @@ This question assesses your ability to organize files and directories associated
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
+https://github.com/ethieme/tfcb-homework01.git
 
 ## Problem 5
 
@@ -67,7 +68,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-`https://github.com/ethieme/tfcb-homework01/blob/a9f0394e19177465131a7a32a4504cda5e3c3fdb/README01.md` 
+https://github.com/ethieme/tfcb-homework01/blob/a9f0394e19177465131a7a32a4504cda5e3c3fdb/README01.md
 
 ## Problem 6
 
@@ -82,4 +83,5 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
 _Include the link to your `.tsv` file on GitHub here._
+https://github.com/ethieme/tfcb-homework01/blob/9318fd8db6e24f79be309aa6d996bb4699c7266e/messy-project-directory/data/2013-2014_survey_data.tsv
 
